@@ -33,4 +33,5 @@ At the end of the tutorial, participants will be comfortable accessing classical
   - [ANCE notebook](notebooks/notebook4.1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tonellotto/ecir2021tutorial/blob/main/notebooks/notebook4.1.ipynb)
   - [ColBERT notebook](notebooks/notebook4.2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tonellotto/ecir2021tutorial/blob/main/notebooks/notebook4.2.ipynb)
 
-> Colab links must be changes if the repository is relocated.
+> Colab links must be changed if the repository is relocated.
+> There could be some issues when opening notebooks from private repos in Google Colab.
