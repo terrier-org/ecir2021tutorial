@@ -12,6 +12,21 @@ At the end of the tutorial, participants will be comfortable accessing classical
 
 # Authors
 
-* Sean MacAvaney, Georgetown University, US
-* Craig Macdonald, University of Glasgow, UK
-* Nicola Tonellotto, University of Pisa, IT
+* [Sean MacAvaney](https://macavaney.us), Georgetown University, US
+* [Craig Macdonald](http://www.dcs.gla.ac.uk/~craigm/), University of Glasgow, UK
+* [Nicola Tonellotto](http://tonellotto.github.io), University of Pisa, IT
+
+# Contents
+
+* Part 1: Classical IR: indexing, retrieval and evaluation 
+  - [Slides](slides/part1.pdf)
+  - [Jupyter Notebook](notebooks/xxxx.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+* Part 2: Modern Retrieval Architectures: PyTerrier data model and operators, towards re-rankers and learning-to-rank
+  - [Slides](slides/part2.pdf)
+  - [Jupyter Notebook](notebooks/xxxx.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+* Part 3: Contemporary Retrieval Architectures: Neural re-rankers such as BERT, EPIC, ColBERT
+  - [Slides](slides/part3.pdf)
+  - [Jupyter Notebook](notebooks/xxxx.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+* Part 4: Recent Advances beyond the classical inverted index: neural inverted index augmentation, nearest neighbor search, dense retrieval
+  - [Slides](slides/part4.pdf)
+  - [Jupyter Notebook](notebooks/xxxx.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
