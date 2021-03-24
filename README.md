@@ -12,7 +12,7 @@ At the end of the tutorial, participants will be comfortable accessing classical
 
 # Authors
 
-* [Sean MacAvaney](https://macavaney.us), University of Glasgow, UK (previously Georgetown University, USA)
+* [Sean MacAvaney](https://macavaney.us), University of Glasgow, UK
 * [Craig Macdonald](http://www.dcs.gla.ac.uk/~craigm/), University of Glasgow, UK
 * [Nicola Tonellotto](http://tonellotto.github.io), University of Pisa, IT
 
@@ -20,13 +20,18 @@ At the end of the tutorial, participants will be comfortable accessing classical
 
 * Part 1: Classical IR: indexing, retrieval and evaluation 
   - [Slides](slides/part1.pdf)
-  - [Jupyter Notebook](notebooks/xxxx.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+  - [Jupyter Notebook](notebooks/notebook1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tonellotto/ecir2021tutorial/blob/main/notebooks/notebook1.ipynb)
 * Part 2: Modern Retrieval Architectures: PyTerrier data model and operators, towards re-rankers and learning-to-rank
   - [Slides](slides/part2.pdf)
-  - [Jupyter Notebook](notebooks/xxxx.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+  - [Jupyter Notebook](notebooks/xxxx.ipynb)
 * Part 3: Contemporary Retrieval Architectures: Neural re-rankers such as BERT, EPIC, ColBERT
   - [Slides](slides/part3.pdf)
-  - [Jupyter Notebook](notebooks/xxxx.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+  - [Jupyter Notebook](notebooks/xxxx.ipynb)
 * Part 4: Recent Advances beyond the classical inverted index: neural inverted index augmentation, nearest neighbor search, dense retrieval
   - [Slides](slides/part4.pdf)
-  - [Jupyter Notebook](notebooks/xxxx.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+  - [doc2query and DeepCT notebook](notebooks/notebook4.0.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tonellotto/ecir2021tutorial/blob/main/notebooks/notebook4.0.ipynb)
+  - [ANCE notebook](notebooks/notebook4.1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tonellotto/ecir2021tutorial/blob/main/notebooks/notebook4.1.ipynb)
+  - [ColBERT notebook](notebooks/notebook4.2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tonellotto/ecir2021tutorial/blob/main/notebooks/notebook4.2.ipynb)
+
+> Colab links must be changed if the repository is relocated.
+> There could be some issues when opening notebooks from private repos in Google Colab.
