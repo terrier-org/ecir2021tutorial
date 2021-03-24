@@ -12,7 +12,7 @@ At the end of the tutorial, participants will be comfortable accessing classical
 
 # Authors
 
-* [Sean MacAvaney](https://macavaney.us), Georgetown University, US
+* [Sean MacAvaney](https://macavaney.us), University of Glasgow, UK (previously Georgetown University, USA)
 * [Craig Macdonald](http://www.dcs.gla.ac.uk/~craigm/), University of Glasgow, UK
 * [Nicola Tonellotto](http://tonellotto.github.io), University of Pisa, IT
 
