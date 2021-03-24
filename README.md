@@ -1,6 +1,6 @@
 # IR From Bag-of-words to BERT and Beyond through Practical Experiments
 
-This is the official of the "**IR From Bag-of-words to BERT and Beyond through Practical Experiments**", an [ECIR 2021](https://www.ecir2021.eu) full-day tutorial with [PyTerrier](https://github.com/terrier-org/pyterrier) and [OpenNIR](https://opennir.net) search toolkits.
+This is the official of the "*IR From Bag-of-words to BERT and Beyond through Practical Experiments*", an [ECIR 2021](https://www.ecir2021.eu) full-day tutorial with [PyTerrier](https://github.com/terrier-org/pyterrier) and [OpenNIR](https://opennir.net) search toolkits.
 
 # About the tutorial
 
