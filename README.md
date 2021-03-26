@@ -33,6 +33,15 @@ At the end of the tutorial, participants will be comfortable accessing classical
   - [ANCE notebook](notebooks/notebook4.3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/ecir2021tutorial/blob/main/notebooks/notebook4.2.ipynb)
   - [ColBERT notebook](notebooks/notebook4.3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/ecir2021tutorial/blob/main/notebooks/notebook4.3.ipynb)
 
+# Useful Links
+
+ - PyTerrier: [[Github](https://github.com/terrier-org/pyterrier)] [[Documentation](https://pyterrier.readthedocs.io/en/latest/)]
+ - OpenNir: [[Github](https://github.com/Georgetown-IR-Lab/OpenNIR)] [[Documentation](https://opennir.net/)]
+ - PyTerrier_ColBERT: [[Github](https://github.com/terrierteam/pyterrier_colbert)]
+ - PyTerrier_T5: [[Github](https://github.com/terrierteam/pyterrier_t5)]
+ - PyTerrier_doc2query: [[Github](https://github.com/terrierteam/pyterrier_doc2query)]
+ - PyTerrier_ANCE: [[Github](https://github.com/terrierteam/pyterrier_ance)]
+
 # Feedback
 
 If you attended our ECIR 2021 tutorial, please could you complete this anonymous feedback quiz https://forms.office.com/r/2WbpLiQmWV
