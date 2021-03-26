@@ -1,6 +1,6 @@
 # IR From Bag-of-words to BERT and Beyond through Practical Experiments
 
-This is the official of the "*IR From Bag-of-words to BERT and Beyond through Practical Experiments*", an [ECIR 2021](https://www.ecir2021.eu) full-day tutorial with [PyTerrier](https://github.com/terrier-org/pyterrier) and [OpenNIR](https://opennir.net) search toolkits.
+This is the official repository of "*IR From Bag-of-words to BERT and Beyond through Practical Experiments*", an [ECIR 2021](https://www.ecir2021.eu) full-day tutorial with [PyTerrier](https://github.com/terrier-org/pyterrier) and [OpenNIR](https://opennir.net) search toolkits.
 
 # About the tutorial
 
@@ -33,5 +33,3 @@ At the end of the tutorial, participants will be comfortable accessing classical
   - [ANCE notebook](notebooks/notebook4.1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/ecir2021tutorial/blob/main/notebooks/notebook4.1.ipynb)
   - [ColBERT notebook](notebooks/notebook4.2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/ecir2021tutorial/blob/main/notebooks/notebook4.2.ipynb)
 
-> Colab links must be changed if the repository is relocated.
-> There could be some issues when opening notebooks from private repos in Google Colab.
