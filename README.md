@@ -33,3 +33,6 @@ At the end of the tutorial, participants will be comfortable accessing classical
   - [ANCE notebook](notebooks/notebook4.1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/ecir2021tutorial/blob/main/notebooks/notebook4.1.ipynb)
   - [ColBERT notebook](notebooks/notebook4.2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/ecir2021tutorial/blob/main/notebooks/notebook4.2.ipynb)
 
+# Feedback
+
+If you attended our ECIR 2021 tutorial, please could you complete this anonymous feedback quiz https://forms.office.com/r/2WbpLiQmWV
