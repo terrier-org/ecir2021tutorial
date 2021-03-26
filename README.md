@@ -37,7 +37,7 @@ At the end of the tutorial, participants will be comfortable accessing classical
 # Useful Links
 
  - PyTerrier: [[Github](https://github.com/terrier-org/pyterrier)] [[Documentation](https://pyterrier.readthedocs.io/en/latest/)]
- - OpenNir: [[Github](https://github.com/Georgetown-IR-Lab/OpenNIR)] [[Documentation](https://opennir.net/)]
+ - OpenNIR: [[Github](https://github.com/Georgetown-IR-Lab/OpenNIR)] [[Documentation](https://opennir.net/)]
  - PyTerrier_ColBERT: [[Github](https://github.com/terrierteam/pyterrier_colbert)]
  - PyTerrier_T5: [[Github](https://github.com/terrierteam/pyterrier_t5)]
  - PyTerrier_doc2query: [[Github](https://github.com/terrierteam/pyterrier_doc2query)]
