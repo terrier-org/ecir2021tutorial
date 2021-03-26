@@ -26,7 +26,7 @@ At the end of the tutorial, participants will be comfortable accessing classical
   - [Jupyter Notebook](notebooks/notebook2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/ecir2021tutorial/blob/main/notebooks/notebook2.ipynb)
 * Part 3: Contemporary Retrieval Architectures: Neural re-rankers such as BERT, EPIC, ColBERT
   - [Slides](slides/part3.pdf)
-  - [Jupyter Notebook](notebooks/xxxx.ipynb)
+  - [OpenNIR and monoBERT Notebook](notebooks/notebook3.1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/ecir2021tutorial/blob/main/notebooks/notebook3.1.ipynb)
 * Part 4: Recent Advances beyond the classical inverted index: neural inverted index augmentation, nearest neighbor search, dense retrieval
   - [Slides](slides/part4.pdf)
   - [doc2query and DeepCT notebook](notebooks/notebook4.1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/ecir2021tutorial/blob/main/notebooks/notebook4.1.ipynb)
