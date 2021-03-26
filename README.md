@@ -23,7 +23,7 @@ At the end of the tutorial, participants will be comfortable accessing classical
   - [Jupyter Notebook](notebooks/notebook1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/ecir2021tutorial/blob/main/notebooks/notebook1.ipynb)
 * Part 2: Modern Retrieval Architectures: PyTerrier data model and operators, towards re-rankers and learning-to-rank
   - [Slides](slides/part2.pdf)
-  - [Jupyter Notebook](notebooks/xxxx.ipynb)
+  - [Jupyter Notebook](notebooks/notebook2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/ecir2021tutorial/blob/main/notebooks/notebook2.ipynb)
 * Part 3: Contemporary Retrieval Architectures: Neural re-rankers such as BERT, EPIC, ColBERT
   - [Slides](slides/part3.pdf)
   - [Jupyter Notebook](notebooks/xxxx.ipynb)
