@@ -43,6 +43,21 @@ At the end of the tutorial, participants will be comfortable accessing classical
  - PyTerrier_doc2query: [[Github](https://github.com/terrierteam/pyterrier_doc2query)]
  - PyTerrier_ANCE: [[Github](https://github.com/terrierteam/pyterrier_ance)]
 
+# Citation Policy
+
+If you make using of any of these slides, notebooks, or additional PyTerrier plugins, please cite our tutorial abstract:
+
+```bibtex
+
+@inproceedings{macavaney:ecir2021-tutnir,
+  author = {MacAvaney, Sean and Macdonald, Craig and Tonellotto, Nicola},
+  title = {IR From Bag-of-words to BERT and Beyond through Practical Experiments: An ECIR 2021 tutorial with PyTerrier and OpenNIR},
+  booktitle = {Proceedings of the 43rd European Conference on Information Retrieval Research},
+  year = {2021}
+}
+
+```
+
 # Feedback
 
-If you attended our ECIR 2021 tutorial, please could you complete this anonymous feedback quiz https://forms.office.com/r/2WbpLiQmWV
+If you attended our ECIR 2021 tutorial, we would appreciate your (anonymous) feedback quiz via this quiz https://forms.office.com/r/2WbpLiQmWV
