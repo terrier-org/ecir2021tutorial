@@ -49,7 +49,7 @@ If you make using of any of these slides, notebooks, or additional PyTerrier plu
 
 ```bibtex
 
-@inproceedings{macavaney:ecir2021-tutnir,
+@inproceedings{ecir2021-tut-bow2b,
   author = {MacAvaney, Sean and Macdonald, Craig and Tonellotto, Nicola},
   title = {IR From Bag-of-words to BERT and Beyond through Practical Experiments: An ECIR 2021 tutorial with PyTerrier and OpenNIR},
   booktitle = {Proceedings of the 43rd European Conference on Information Retrieval Research},
