@@ -41,6 +41,7 @@ At the end of the tutorial, participants will be comfortable accessing classical
  - PyTerrier_ColBERT: [[Github](https://github.com/terrierteam/pyterrier_colbert)]
  - PyTerrier_T5: [[Github](https://github.com/terrierteam/pyterrier_t5)]
  - PyTerrier_doc2query: [[Github](https://github.com/terrierteam/pyterrier_doc2query)]
+ - PyTerrier_DeepCT: [[Github](https://github.com/terrierteam/pyterrier_deepct)]
  - PyTerrier_ANCE: [[Github](https://github.com/terrierteam/pyterrier_ance)]
 
 # Citation Policy
